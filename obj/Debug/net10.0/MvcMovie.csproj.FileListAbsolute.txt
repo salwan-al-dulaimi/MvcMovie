@@ -95,3 +95,4 @@
 /home/slawan/Code/MvcMovie/obj/Debug/net10.0/MvcMovie.pdb
 /home/slawan/Code/MvcMovie/obj/Debug/net10.0/MvcMovie.genruntimeconfig.cache
 /home/slawan/Code/MvcMovie/obj/Debug/net10.0/ref/MvcMovie.dll
+/home/slawan/Code/MvcMovie/obj/Debug/net10.0/MvcMovie.sourcelink.json

@@ -15,5 +15,11 @@ namespace MvcMovie.Controllers
 
             return View(items);
         }
+
+        public IActionResult Edit(int id)
+        {
+
+            return Content("Edit action for item with ID: " + id);
+        }
     }
 }
